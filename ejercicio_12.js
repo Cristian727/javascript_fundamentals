@@ -13,4 +13,4 @@ const usuario = {
     IMC: IMC(75, 1.8),
 }
 
-console.log(usuario)
+console.table(usuario)
